@@ -4,9 +4,16 @@ A: creates a new .git directory, and fill it with initial sets of files. I'll ne
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: staging area is an intermediary spot for smaller, local changes. it allows for rapid iteration of changes, with a full push happening when more impactful changes are ready...
 
-Some intermediate changes to test 'git commit' opens an editor...
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: make a bunch of changes, commit only a few files to staging, only commit those changes. BUT, that feels sloppy to me. Making lots of changes locally, only to commit a few files at a time feels like a great way to commit stuff what won't build. Not sure I buy this process yet. Think I prefer "modify files for a small change, stage them, commit them"...
 
-Q:
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: 
+
+Q: How do the diagrams help you visualize the branch structure?
+A: git repo structure is non-linear...
+
+
+
 
 
