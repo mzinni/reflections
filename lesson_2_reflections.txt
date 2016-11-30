@@ -1,0 +1,4 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: creates a new .git directory, and fill it with initial sets of files. I'll need to add files to be tracked, and eventually commit to the repo...
+
+
