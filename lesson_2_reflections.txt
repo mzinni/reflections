@@ -1,4 +1,12 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: creates a new .git directory, and fill it with initial sets of files. I'll need to add files to be tracked, and eventually commit to the repo...
 
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: staging area is an intermediary spot for smaller, local changes. it allows for rapid iteration of changes, with a full push happening when more impactful changes are ready...
+
+Some intermediate changes to test 'git commit' opens an editor...
+
+Q:
+A: 
+
 
