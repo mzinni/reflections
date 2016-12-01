@@ -1,2 +1,2 @@
 Q: When would you want to create a remote repo, instead of keeping all your files local?
-A: 
+A: remotes are great for sharing projects with others, whether completely public or private to your org...
